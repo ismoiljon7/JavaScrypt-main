@@ -4,4 +4,4 @@ let birinchiHarf = ism.charAt().toUpperCase();
 let davomi = ism.slice(1).toLowerCase();
 let result = birinchiHarf + davomi;
 
-alert(`salom, ${ism}`);
+alert(`salom, ${result}`);
